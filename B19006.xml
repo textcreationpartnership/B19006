@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties last speech to the lords of his Privie councell and others at his first notice of the intentions of the city of London, concerning their petition for peace wherein is briefly exprest the royall disposition of His excellent Majesty toward that honourable city, and his good inclination toward the kingdome in generall.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19006</idno><idno type="EEBO-CITATION">12123987</idno>
+  <idno type="VID">196957</idno>
+  <idno type="EEBO-PROQUEST">2248537640</idno>
+  
+            <idno type="STC">Wing C2381</idno>
+            <idno type="OCLC">12123987</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196957)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E83, no 44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties last speech to the lords of his Privie councell and others at his first notice of the intentions of the city of London, concerning their petition for peace wherein is briefly exprest the royall disposition of His excellent Majesty toward that honourable city, and his good inclination toward the kingdome in generall.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Rogers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Occasioned by the humble petition of the major, aldermen and commons of the citie of London ...</note>
+                  <note>Received by Thomason 2, Jan. 1643.</note>
+                  <note>Originally published: Oxford: Leonard Lichfield, 1643?</note>
+                  <note>"The original Oxford edition probably does not exist." -- cf. Madan.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Court of Common Council. --  Humble petition of the major, aldermen, and commons of the citie of London.</term>
+               <term type="geographic_name">London (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196957:1"/>
+            <p>HIS MAIESTIES LAST SPEECH, To the Lords of his Privie Coun<g ref="char:EOLhyphen"/>cell, and others, at His first notice of the intentions of the City of London, concer<g ref="char:EOLhyphen"/>ning their Petition for Peace:</p>
+            <p>Wherein is briefly exprest the royall disposi<g ref="char:EOLhyphen"/>tion of His excellent Majesty toward that ho<g ref="char:EOLhyphen"/>nourable City, and his good inclination toward the Kingdome in generall.</p>
+            <figure>
+               <figDesc>seal of Charles I</figDesc>
+               <p>C R</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>First printed at <hi>Oxford</hi> by <hi>Leonard Lichfield,</hi> and now re<g ref="char:EOLhyphen"/>printed at <hi>London</hi> for <hi>Iohn Rogers.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:196957:2"/>
+            <pb n="3" facs="tcp:196957:2"/>
+            <head>His Majesties last Speech, to the Lords of his Privie Councell, concer<g ref="char:EOLhyphen"/>ning the <hi>Londoners Petition for Peace.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">R</seg>Vmour, which in that uttered nought but truth, brought us hither about a fortnight si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, a report, that divers able inhabi<g ref="char:EOLhyphen"/>tants of our capitall City of London had presented in a Petition their humble de<g ref="char:EOLhyphen"/>sires to ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> high Court of Parliament, to take some spe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy and eff<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ual course for s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g all the differences <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ween us and them; the printed Copy of which Petition c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e afterwards to Our hands. And ce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tainly We have a g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of reason <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esent with all kindnesse the hon<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tions o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> those good Ci<g ref="char:EOLhyphen"/>tizens, who finding (I <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) to their costs, the dangers and incommodities that alwaye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wait on a C<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ll war, the m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>series imminent over them and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir fellow-subjects in generall by the breach of peace and amity amongst them<g ref="char:EOLhyphen"/>selves, setled their resolutions to try all wayes possible to conclude these grievous distractions: and amongst all, they could have happened on none more materiall, then that of petitioning our Parliament to comply with us for an accom<g ref="char:EOLhyphen"/>modation. For if they be as ready to propound reasonable conditions for that purpose, as we shall be to embrace and ratifie them when propounded, the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will not be much diffi<g ref="char:EOLhyphen"/>culty in the matter; many Suns more will not go down up<g ref="char:EOLhyphen"/>on our anger, we shall have all peace and quietnesse. But
+<pb n="4" facs="tcp:196957:3"/> what our Parliament hath in that case determined, hath not yet arrived our knowledge. A very hard destiny, both for Our selfe and them, that We, who had wont to communi<g ref="char:EOLhyphen"/>cate all matters of consequence and waight, which either concerned Our self or the Common-wealth, with a mutuall freedome, should now breath at such a distance, that Wee have no affinity of converse one with another. But those ruptures may yet in good time be made up, and (like bones, when broken and well set againe) the unity betweene us may knit faster, after this long breach betwixt us. We have since been credibly informed, and (We hope) no more then truth, that the best of our said City of London, and not the meanest number of its inhabitants, intend (by their agents deputed for that purpose) to present with all humblenesse the like Petition to Us. We dare assure you (my Lords) if it be so, no one thing that hath befallen Us since these fatall wars, ever came so welcome as it will do to Us. For what greater comfort can there be to Us in these misfortunes, then that the noble and ancient City of London, which hath been the constant seat of Our royall ancestors, that inshrines their reverend dust; that City, whose wealth and potencie hath been the principall supporter of these wars against Us, now sensible of her duty to God, and her allegeance to Us her Soveraigne, she doth make haste to flye to peace, petiti<g ref="char:EOLhyphen"/>oning Us and Our Parliament also, for the obtaining it: sure<g ref="char:EOLhyphen"/>ly We shall ever take it as an apparent testimony of their af<g ref="char:EOLhyphen"/>fection to Us, and be ready in all honourable wayes as befits the Majesty of a King, to consigne Our intentions to the ra<g ref="char:EOLhyphen"/>tification of all such conditions, as she shall with reason pro<g ref="char:EOLhyphen"/>pound by those advocates for peace, now destined to Us. Some (We doubt not) are of opinion among you, that con<g ref="char:EOLhyphen"/>sidering with what an high hand Our said City hath carried things against Us; how divers of the inhabitants thereof did as it were threaten Us, nay drive Us from Our palace at White-hall; that the Money, Plate, and Horses, which up<g ref="char:EOLhyphen"/>held and fomented the late wars, arose out of the Citizens
+<pb n="5" facs="tcp:196957:3"/> bountifull contributions to Our Parliaments assistance; that all, or most of the Regiments of Foot and Horse, under the Earle of Essex in the field against Us, were raised and levied in the City, most of them being either Citizens, their Chil<g ref="char:EOLhyphen"/>dren, or Prentices; and so finally conclude, that the very sourse and fountaine, from whence these distractions have sprung throughout Our Dominions, to have been the City of London, whose money hath raised those forces which have been employed against Us: and therefore that conse<g ref="char:EOLhyphen"/>quently We cannot in honour hearken to the said City in a<g ref="char:EOLhyphen"/>ny propositions of Peace, which hath caused this War. How easily shall We refute this argument, at once strike dead these objections. First, for the insurrection there, it was not (as hath since evidently been proved) either by the con<g ref="char:EOLhyphen"/>sent or abetment of any of the grave or substantiall Citizens, but raised meerly by a company of loose and mutinous spi<g ref="char:EOLhyphen"/>rits, who would needs, to get them a name, though for do<g ref="char:EOLhyphen"/>ing mischief, thrust themselves into the businesse of the Common-wealth; and had we before weighed that at<g ref="char:EOLhyphen"/>tempt, so well and maturely as wee have done since, that scar-crow should not have frighted, that shadow of a tem<g ref="char:EOLhyphen"/>pest should not have shaken Us out of White-hall, where We were more scared then hurt. And for the madnesse of those idle and inconsiderate out-casts of the people, can any man of judgment think it fit, the noble, wealthy, and mode<g ref="char:EOLhyphen"/>rate inhabitants of the City should suffer? far be it from the equity of a King, to punish the innocent for the guilty; it were as if heaven should condemne a whole Nation for the offenses of a few Reprobates. Nor can a good argument be made from such a particular to a generall. For their raising Money, Plate, and Horses, for the Parliaments assistance, suppose we grant that to be the principall cause of abetting and maintaining these wars against Us; We do believe no lesse, nor that the Earle of Essex could have ever kept the field against US, but for the men levied in the City: yet con<g ref="char:EOLhyphen"/>fident We are, that not one man amongst them, in those con<g ref="char:EOLhyphen"/>tributions
+<pb n="6" facs="tcp:196957:4"/> either of Money, Plate, or Horses, intended there<g ref="char:EOLhyphen"/>by ought that was prejudiciall to Our person, or royall dig<g ref="char:EOLhyphen"/>nity: the Parliament desired those contributions under the pretence of Our safety, and the defense of Our Kingdome; and the Parliament promised to secure them harml<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse, which was warrant enough for them to doe what they did, since their intentions, which makes the lawfulnesse or un<g ref="char:EOLhyphen"/>lawfulnesse of the act, were destined and aymed meerly at Our service, and the good of the Kingdom. So it was with the men that came to serve under the Parliaments Colours, they imagined, and confidently, that they came to fight for Us, not against Us, and so were possest by their Comman<g ref="char:EOLhyphen"/>ders. But say We should resent these injuries, and in con<g ref="char:EOLhyphen"/>sideration of them refuse to hearken to any propositions or petition of peace, which should be tendred Us from Our City of London, those who counsell Us to this, let them out marke how dangerous the consequence would be, and they will quickly cleare themselves f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om those thoughts. First, by the refusall of their petition We should for evermore lose the hearts of all the Citizens who are Petitioners, and in their hearts loyall to Our Crowne and dignity, and not one<g ref="char:EOLhyphen"/>ly deprive Us of them, but the rest of the inhabitants will cry out against Us, as a person that delights in blood, as a<g ref="char:EOLhyphen"/>gainst one that preferres his owne humour before the setling of Religion, or the peace and prosperity of his subjects, which ought to be the principall care and duty of a Sove<g ref="char:EOLhyphen"/>raigne: nay we should not here give a period to the heart-burnings that are stirred up against Us, but Our whole king<g ref="char:EOLhyphen"/>dome would take it in ill part, that Wee should refuse to hearken to the City of Londons propositions, and so the Citi<g ref="char:EOLhyphen"/>zens would not onely then contribute their Plate, Mony, and Horses, to the defence of their cause, but also double their benevolence, expending all the substance they have, nay even their lives in the defense of their liberties, which then they would absolutely conclude We had an intention to violate and enslave, if Wee should refuse to endevour to preserve
+<pb n="7" facs="tcp:196957:4"/> them, by condescending to an honourable treaty of peace, and when that rich and populous City once is insenced and possest, that there are machinations and invasions purposed against their freedome, they will all (as We had lately expe<g ref="char:EOLhyphen"/>rience at Turnham-Green) combine and confederate them<g ref="char:EOLhyphen"/>selves together as one man, in the tutelage of that which they esteeme dearer then their lives, their liberties. Besides the arming them against Us, many of Our friends now with Us, that are their friends, and onely expect the happy day of unity betwixt Our selfe and Our Parliament, upon Our refu<g ref="char:EOLhyphen"/>sall would be induced to relinquish Our service, and that (as <hi>Ioab</hi> said to <hi>David,</hi> when hee would not come forth and speake cheerfully to his men of war) <hi>would be a greater evill then hath ever happened to Vs from Our youth up to this time.</hi>
+            </p>
+            <p>Since then God in his mercy hath put it into divers of the Londoners hearts to petition for peace, and that divers of their agents are for that purpose comming hither, We shall receive them with a fatherly love, forgetting all things past, and imputing them rather to misunderstanding then malice: We shall, if their conditions be in any reasonable sort corre<g ref="char:EOLhyphen"/>spondent to Our honour and wishes, (and We believe they will not in duty offer any but such as shall be faire and reaso<g ref="char:EOLhyphen"/>nable to Us their Soveraigne) receive them with much good will and alacrity, and grant (in Our royall goodnesse) what<g ref="char:EOLhyphen"/>soever shall be fitting for Us to give assent to. We shall, for the setling Gods holy worship in Our Kingdome, for the ta<g ref="char:EOLhyphen"/>king away all cries and clamours from Our subjects, and the establishing peace and happinesse amongst them, be ready with all Our soule to come to a treaty with Our high Court of Parliament, that all the world may take notice that the taking up Our armes was not any way to oppresse the liveli<g ref="char:EOLhyphen"/>hoods, or diminish the property of Our subjects, their liber<g ref="char:EOLhyphen"/>ties or ancient franchises, when at the first reasonable request We shall lay them downe, with a farre better will then We tooke them up: and We would have all Our good subjects, especially those of Our honourable City London, to under<g ref="char:EOLhyphen"/>stand,
+<pb n="8" facs="tcp:196957:5"/> that they cannot any way make a more gratefull de<g ref="char:EOLhyphen"/>monstration of their love to true Religion, and duty to Us, then by promoting as much as in them lyes, a suddaine re<g ref="char:EOLhyphen"/>conciliation between Our se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe and Our high Court of Par<g ref="char:EOLhyphen"/>liament, till when none of them can have hopes of enjoying his owne estate in peace; the nature of war, especially ci<g ref="char:EOLhyphen"/>vill, being incompatible with either wealth or plenty. And therefore Wee shall use all Our endevours to produce that peace amongst Us, which hath been, and will again be the producer of so many blessings to Our people and dominions.</p>
+            <p>We shall desire you therefore (my Lords, and you Gen<g ref="char:EOLhyphen"/>tlemen that attend Us) that when any such persons shall ar<g ref="char:EOLhyphen"/>rive here from London, that you use them with all civility, not exprobrating to them any of the former dissensions; and in so doing you will perform your duties, and seem inclina<g ref="char:EOLhyphen"/>ble to that peace, which We pray God speedily to send in all Our dominions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
